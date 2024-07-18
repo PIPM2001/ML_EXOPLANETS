@@ -18,5 +18,9 @@ El modelo se ha desrrollado con LightGBM.
 
 Directorios del repositorio:
 
+results_notebook -> contiene los notebooks y las librerias no standard empleadas para el desarrollo del modelo
 
+modelos -> contiene el modelo reultante
+
+data_dample -> contiene el dsataset utilizado para entrenamiento y un peqeuño dataset con datos sin etiquetar para relizar la prueba
 
